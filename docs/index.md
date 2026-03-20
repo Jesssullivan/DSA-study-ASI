@@ -87,3 +87,15 @@ The [cross-reference guide](reference/08-cross-reference-guide.md) maps patterns
 
 [:material-rocket-launch: Start Drilling](challenges/index.md){ .md-button .md-button--primary }
 [:material-map: Decision Tree](guide/when-to-use-what.md){ .md-button }
+
+---
+
+## Printable Booklet
+
+123-page reference: decision trees, pattern keywords, and every algorithm with full implementation — one per page.
+
+[:material-download: Download PDF](assets/booklet.pdf){ .md-button }
+
+<div markdown class="pdf-viewer">
+<iframe src="assets/booklet.pdf" width="100%" height="800px" style="border: 1px solid #ccc; border-radius: 8px;"></iframe>
+</div>
