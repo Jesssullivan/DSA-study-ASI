@@ -16,7 +16,7 @@ Senior full-stack (backend) interview prep for [Air Space Intelligence](https://
 
     [:octicons-arrow-right-24: Algorithms](algorithms/index.md)
 
--   :material-test-tube:{ .lg .middle } **628 Tests**
+-   :material-test-tube:{ .lg .middle } **647 Tests**
 
     ---
 
@@ -24,11 +24,11 @@ Senior full-stack (backend) interview prep for [Air Space Intelligence](https://
 
     [:octicons-arrow-right-24: Challenges](challenges/index.md)
 
--   :material-book-open-variant:{ .lg .middle } **6 Concept Modules**
+-   :material-book-open-variant:{ .lg .middle } **7 Concept Modules**
 
     ---
 
-    T-strings, typing, Hypothesis, FFT, Flask, Pydantic
+    T-strings, typing, Hypothesis, benchmarking, FFT, Flask, Pydantic
 
     [:octicons-arrow-right-24: Concepts](concepts/index.md)
 
@@ -48,7 +48,7 @@ Senior full-stack (backend) interview prep for [Air Space Intelligence](https://
 
 ```bash
 direnv allow          # nix devshell + python 3.14 venv
-just test             # 628 tests
+just test             # 647 tests
 just lint             # ruff + mypy strict
 just docs             # this site, locally
 ```
