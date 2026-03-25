@@ -1,7 +1,8 @@
-# ASI Interview Study Guide
+I am most pleased to announce I will never need to do another DSA / FAANG style interview again.   I'll just politely decline ^w^
 
-69 algorithm implementations. 42 core daily drills. 628 tests.
-Senior full-stack (backend) prep for [Air Space Intelligence](https://www.airspace-intelligence.com/).
+---
+
+
 
 ## Quick Start
 
