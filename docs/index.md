@@ -1,10 +1,10 @@
 ---
-title: ASI Algorithm Study Guide
+title: DSA Study Guide
 ---
 
-# ASI Algorithm Study Guide
+# Algorithm Study Guide
 
-Senior full-stack (backend) interview prep for [Air Space Intelligence](https://www.airspace-intelligence.com/).
+Full-stack (backend) interview prep for DSA exams.
 
 <div class="grid cards" markdown>
 
@@ -72,7 +72,7 @@ just docs             # this site, locally
 
 ## Daily Drill
 
-42 core algorithms, all of them, every single day. Challenge mode strips solutions — you re-implement from the signature and docstring alone.
+42 core algorithms, all of them, every single day. Challenge mode strips solutions — Jess re-implements from the signature and docstring alone.
 
 ```bash
 just challenge graphs dijkstra    # strip solution
